@@ -1,0 +1,7 @@
+## Interface: 70100
+## Author: Lataria-Azuremyst (US)
+## Title: CTA (call to arms) finder
+## Notes: Used to help find RF CTAs without constantly checking the RF tool.
+## Version: 1
+
+main.lua
