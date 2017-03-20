@@ -16,7 +16,7 @@ ddt=function(y) y:SetScript(a,function(f,e)f.t=f.t+e;
 		then f.t = 0;
 			RequestLFDPlayerLockInfo();		
 									
-			_,h =GetLFGRoleShortageRewards(1292, 1); -- Legion Heroic Random
+			_,h =GetLFGRoleShortageRewards(1046, 1); -- Legion Heroic Random
 			if h == true then 
 				PlaySoundFile([[Sound\Creature\BabyMurloc\BabyMurlocA.ogg]],"Master");
 				f:SetScript(a,nil);
