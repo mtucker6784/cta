@@ -1,7 +1,7 @@
 -- CTA Addon
 -- mtucker6784@gmail.com
 -- Uh, so. This isn't very pretty. LUA isn't my strong language.
--- Raids are sorted in this addon by their respective Blizzard ID.
+-- Both Legion Heroics & Raids are sorted in this addon by their respective Blizzard ID.
 -- Tank queues ... "_,h" 
 -- Healer queues ... "_,_,h"
 -- DPS queues ... "_,_,_,h"
@@ -435,7 +435,7 @@ local function handler(msg, editbox)
 	print("|cFF00FF00CTA: -- Searching LFR CTA as DPS (good luck...)")
 	dps();
  elseif msg == 'ht' then
-	print("|cFF00FF00CTA: -- Searching LFR CTA as TANK")
+	print("|cFF00FF00CTA: -- Searching Heroic CTA as TANK")
 	htank()
  elseif msg == 'hh' then
 	print("|cFF00FF00CTA: -- Searching Heroic CTA as HEALER")
