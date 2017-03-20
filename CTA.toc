@@ -2,6 +2,6 @@
 ## Author: Lataria-Azuremyst (US)
 ## Title: CTA (call to arms) finder
 ## Notes: Used to help find RF CTAs without constantly checking the RF tool.
-## Version: 1
+## Version: 2.1
 
 main.lua
