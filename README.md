@@ -24,11 +24,11 @@ It's a very basic addon with the following options:
 
 --- Heroic CTA commands ---
 
-/cta hd = Find RF DPS CTA
+/cta hd = Find Heroic DPS CTA
 
-/cta hh = Find RF Healer CTA
+/cta hh = Find Heroic Healer CTA
 
-/cta ht == Find RF Tank CTA
+/cta ht == Find Heroic Tank CTA
 
 
 
@@ -51,3 +51,5 @@ I used the following as resources:
 
 
 Docs/API @ Wowprogramming: http://wowprogramming.com/docs/api
+
+// Todo: Add gui friendly select options instead of only having "/" commands.
