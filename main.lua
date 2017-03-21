@@ -99,7 +99,7 @@ ddh=function(y) y:SetScript(a,function(f,e)f.t=f.t+e;
 			_,_,_,h =GetLFGRoleShortageRewards(1046, 1); -- Legion Heroic Random
 			if h == true then 
 				PlaySoundFile([[Sound\Creature\BabyMurloc\BabyMurlocA.ogg]],"Master");
-				f:SetScript(u,nil);
+				f:SetScript(a,nil);
 				f:Hide();
 				print("|cFF00FF00***CTA*** |rCTA Tank Found for Legion Heroic Random!");
 			end 
